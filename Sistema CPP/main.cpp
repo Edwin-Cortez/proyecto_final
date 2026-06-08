@@ -72,7 +72,7 @@ bool estaRegistrado(int student_id) {
 void mostrarMenu() {
     cout << "\n========================================" << endl;
     cout << "   RED SOCIAL ACADEMICA - MENU PRINCIPAL" << endl;
-    cout << "   Mynor Arias Carnet: 9941-24-18934" << endl;
+    cout << "   Edwin Oswaldo Cortez Tista Carnet: 9941-24-7386" << endl;
     cout << "========================================" << endl;
     cout << " 1.  Cargar estudiantes desde CSV"                     << endl;
     cout << " 2.  Registrar estudiante manualmente"                 << endl;
